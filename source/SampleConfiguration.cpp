@@ -19,3 +19,5 @@ Platform::Array<Scenario>^ MainPage::scenariosInner = ref new Platform::Array<Sc
     { "Bluetooth Heart Rate Monitor - Read Characteristic Value", "SDKSample.BluetoothGattHeartRate.Scenario2_ReadCharacteristicValue" },
     { "Bluetooth Heart Rate Monitor - Write Characteristic Value", "SDKSample.BluetoothGattHeartRate.Scenario3_WriteCharacteristicValue" }
 }; 
+
+// Ghassan was here
